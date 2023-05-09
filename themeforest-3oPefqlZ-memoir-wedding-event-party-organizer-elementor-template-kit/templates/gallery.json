@@ -1,0 +1,403 @@
+{
+    "version": "0.4",
+    "title": "Gallery",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "293be4d5",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/floral-pattern-with-spring-flowers-and-leaves-on-white-background.jpg",
+                    "id": 177
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.8,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "3",
+                    "bottom": "3",
+                    "left": "3",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "1674dd6c",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2a8d5b2e",
+                            "settings": {
+                                "title": "Add Your Heading Text Here",
+                                "header_size": "h1",
+                                "align": "center",
+                                "__dynamic__": {
+                                    "title": "[elementor-tag id=\"258eb49\" name=\"post-title\" settings=\"%7B%7D\"]"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "655c8c22",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Home",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "2788f59"
+                                    },
+                                    {
+                                        "text": "List Item #2",
+                                        "selected_icon": {
+                                            "value": "fas fa-leaf",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "079242f",
+                                        "__dynamic__": {
+                                            "text": "[elementor-tag id=\"e6fe0e2\" name=\"post-title\" settings=\"%7B%7D\"]"
+                                        }
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_align": "center",
+                                "icon_color": "#FFD6BA",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_style": "italic"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4caf2e5b",
+            "settings": {
+                "content_position": "middle",
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "structure": "20",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "64e46729",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 50,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3f4928d7",
+                            "settings": {
+                                "title": "About Gallery",
+                                "header_size": "h6"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "df7083e",
+                            "settings": {
+                                "title": "Golden Capture Moments."
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "55794515",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "15402802",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 50,
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/Memphis_2.png",
+                            "id": 282
+                        },
+                        "background_position": "center center",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "padding": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "57568d20",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/Memphis_2.png",
+                                    "id": 282
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "_ob_photogiraffe_use": "",
+                                "_ob_photomorph_use": "yes",
+                                "_background_background": "classic",
+                                "_background_image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-bliss-during-the-golden-hour-.jpg",
+                                    "id": 283
+                                },
+                                "_background_position": "center center",
+                                "_background_repeat": "no-repeat",
+                                "_background_size": "cover",
+                                "_ob_widget_stalker_use": ""
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "96f0d03",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "25e4478e",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "6edb157f",
+                            "settings": {
+                                "title": "Memorable Moments",
+                                "header_size": "h6",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2c359e35",
+                            "settings": {
+                                "title": "Picture Capture",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5788b540",
+                            "settings": {
+                                "gallery_type": "multiple",
+                                "galleries": [
+                                    {
+                                        "gallery_title": "Pre-Wedding",
+                                        "_id": "f64e062",
+                                        "multiple_gallery": [
+                                            {
+                                                "id": 287,
+                                                "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/couple-cooking-hobby-lifestyle-concept.jpg"
+                                            },
+                                            {
+                                                "id": 289,
+                                                "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/couple-cooking-hobby-lifestyle-concept-2.jpg"
+                                            },
+                                            {
+                                                "id": 292,
+                                                "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/beach-wedding-ceremony.jpg"
+                                            },
+                                            {
+                                                "id": 193,
+                                                "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-food.jpg"
+                                            },
+                                            {
+                                                "id": 196,
+                                                "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/bride-in-white-dress-is-holding-wedding-bouquet.jpg"
+                                            },
+                                            {
+                                                "id": 205,
+                                                "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/close-up-photo-of-beautiful-table-setting-and-bouquet-in-center-at-wedding-hall.jpg"
+                                            },
+                                            {
+                                                "id": 42,
+                                                "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2020\/12\/mason-jar-candle-hanging-on-tree-for-wedding-decor.jpg"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "_id": "59ba307",
+                                        "gallery_title": "Wedding Party",
+                                        "multiple_gallery": [
+                                            {
+                                                "id": 152,
+                                                "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/beautiful-wedding-couple-e1614873111219.jpg"
+                                            },
+                                            {
+                                                "id": 208,
+                                                "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/details-of-the-wedding-day.jpg"
+                                            },
+                                            {
+                                                "id": 297,
+                                                "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding.jpg"
+                                            },
+                                            {
+                                                "id": 298,
+                                                "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-1.jpg"
+                                            },
+                                            {
+                                                "id": 299,
+                                                "url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-engagement-time.jpg"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "aspect_ratio": "4:3",
+                                "thumbnail_image_size": "full",
+                                "show_all_galleries_label": "All"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}
