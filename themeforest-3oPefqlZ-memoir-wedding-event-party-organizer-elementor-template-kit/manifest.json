@@ -1,0 +1,1635 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Memoir - Template Kit For Wedding Planner & Invitations",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/brosurku.online\/kits",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.png",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Wedding Organizer",
+            "screenshot": "screenshots\/wedding-organizer.png",
+            "source": "templates\/wedding-organizer.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/template-kit\/wedding-organizer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.png",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Wedding Invitation Home",
+            "screenshot": "screenshots\/wedding-invitation-home.png",
+            "source": "templates\/wedding-invitation-home.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/template-kit\/wedding-invitation-home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Journal",
+            "screenshot": "screenshots\/journal.png",
+            "source": "templates\/journal.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/template-kit\/journal\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.png",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "RSVP",
+            "screenshot": "screenshots\/rsvp.png",
+            "source": "templates\/rsvp.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/template-kit\/rsvp\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.png",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.png",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Memoir V1 - Archive",
+            "screenshot": "screenshots\/memoir-v1-archive.png",
+            "source": "templates\/memoir-v1-archive.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/?elementor_library=memoir-v1-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Memoir V1 - Single Post",
+            "screenshot": "screenshots\/memoir-v1-single-post.png",
+            "source": "templates\/memoir-v1-single-post.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/?elementor_library=memoir-v1-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Memoir V1 - Footer",
+            "screenshot": "screenshots\/memoir-v1-footer.png",
+            "source": "templates\/memoir-v1-footer.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/?elementor_library=memoir-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Memoir V1 - Error 404",
+            "screenshot": "screenshots\/memoir-v1-error-404.png",
+            "source": "templates\/memoir-v1-error-404.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/?elementor_library=memoir-v1-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Memoir V1 - Header",
+            "screenshot": "screenshots\/memoir-v1-header.png",
+            "source": "templates\/memoir-v1-header.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/memoir\/?elementor_library=memoir-v1-header-2",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.1.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.9",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.2.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.5.2",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "OoohBoi Steroids for Elementor",
+            "version": "1.6.3",
+            "file": "ooohboi-steroids-for-elementor\/ooohboi-steroids.php",
+            "author": "OoohBoi"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.2.4",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        }
+    ],
+    "images": [
+        {
+            "filename": "floral-pattern-with-spring-flowers-and-leaves-on-white-background-e1614944638480.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/floral-pattern-with-spring-flowers-and-leaves-on-white-background-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/rsvp.json",
+                    "name": "RSVP"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/memoir-v1-error-404.json",
+                    "name": "Memoir V1 - Error 404"
+                }
+            ],
+            "filesize": 148719,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MNHPVSY"
+        },
+        {
+            "filename": "a-between-buildings-.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/a-between-buildings--800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 487267,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WVQDHNU"
+        },
+        {
+            "filename": "head-shot-of-smart-asian-smiling-women.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/head-shot-of-smart-asian-smiling-women-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 456920,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4XWG5WQ"
+        },
+        {
+            "filename": "beautiful-girl.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/beautiful-girl-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 362297,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4QC3QRS"
+        },
+        {
+            "filename": "happy-afro-american-millennial-woman-with-afro-hair-style-wear-yellow-sweater-posing-over-grey-wall-e1614944669513.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/happy-afro-american-millennial-woman-with-afro-hair-style-wear-yellow-sweater-posing-over-grey-wall-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 23463,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-43TDVZB"
+        },
+        {
+            "filename": "portrait-of-an-interesting-young-man-in-winter-clothes-e1614944695516.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/portrait-of-an-interesting-young-man-in-winter-clothes-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 32362,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUVK2ZG"
+        },
+        {
+            "filename": "happy-young-man-in-headset-using-mobile-phone-at-cafe-e1614944722499.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/happy-young-man-in-headset-using-mobile-phone-at-cafe-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 28111,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-USKMT2R"
+        },
+        {
+            "filename": "young-beautiful-man-with-flowers-e1614944748476.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/young-beautiful-man-with-flowers-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 34921,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PDPGM25"
+        },
+        {
+            "filename": "stylish-man-e1614944778988.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/stylish-man-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 24866,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4N6J76M"
+        },
+        {
+            "filename": "wedding-rings-e1614944808455.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-rings-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 108901,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-73G3RPA"
+        },
+        {
+            "filename": "wedding-flowers.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-flowers-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                }
+            ],
+            "filesize": 197514,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DWAGPSM"
+        },
+        {
+            "filename": "beautiful-wedding-couple-e1614873111219.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/beautiful-wedding-couple-e1614873111219-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 80379,
+            "dimensions": [
+                835,
+                835
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AG5JV3R"
+        },
+        {
+            "filename": "wedding-ceremony-e1614944839612.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-ceremony-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 97715,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5P92TX7"
+        },
+        {
+            "filename": "floral-arrangement-frame-with-white-roses-and-fern.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/floral-arrangement-frame-with-white-roses-and-fern-800x559.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/memoir-v1-archive.json",
+                    "name": "Memoir V1 - Archive"
+                }
+            ],
+            "filesize": 282089,
+            "dimensions": [
+                2000,
+                1398
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DKV987X"
+        },
+        {
+            "filename": "14-copy-e1614944569527.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/14-copy-e1614944569527.png",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/memoir-v1-archive.json",
+                    "name": "Memoir V1 - Archive"
+                }
+            ],
+            "filesize": 235023,
+            "dimensions": [
+                475,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/watercolor-leaves-laurel-and-wreath-clip-art-R2MNUT"
+        },
+        {
+            "filename": "minimal-bridal-flower-bouquet-e1615324657871.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/minimal-bridal-flower-bouquet-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 106492,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GS3ULHE"
+        },
+        {
+            "filename": "gift-wrapping-holiday-season-eco-friendly-zero-waste-lifestyle-cookies-shape-tree-e1615324685276.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/gift-wrapping-holiday-season-eco-friendly-zero-waste-lifestyle-cookies-shape-tree-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 106332,
+            "dimensions": [
+                720,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KLVUUL3"
+        },
+        {
+            "filename": "beautiful-bouquet-different-flowers.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/beautiful-bouquet-different-flowers-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 403553,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-EH9WK8X"
+        },
+        {
+            "filename": "cold-refreshing-summer-alcohol-cocktail-with-fresh-grapefruit-and-ice.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/cold-refreshing-summer-alcohol-cocktail-with-fresh-grapefruit-and-ice-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 206545,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-M3P92EL"
+        },
+        {
+            "filename": "wedding-couple-together.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-couple-together-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                }
+            ],
+            "filesize": 303783,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-73TPJLQ"
+        },
+        {
+            "filename": "beautiful-wedding-couple-1.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/beautiful-wedding-couple-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                }
+            ],
+            "filesize": 278464,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NVJCR45"
+        },
+        {
+            "filename": "elegant-wedding-couple.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/elegant-wedding-couple-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                }
+            ],
+            "filesize": 438233,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E98PYVM"
+        },
+        {
+            "filename": "wedding-couple-2.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-couple-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                }
+            ],
+            "filesize": 427185,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TYF4CH7"
+        },
+        {
+            "filename": "happy-wedding-couple-is-walking-by-a-beautiful-garden--e1614944944178.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/happy-wedding-couple-is-walking-by-a-beautiful-garden--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                }
+            ],
+            "filesize": 228527,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FHCT5QJ"
+        },
+        {
+            "filename": "wedding-couple-on-the-ocean-with-a-priest.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-couple-on-the-ocean-with-a-priest-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                }
+            ],
+            "filesize": 351072,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L2DTSXD"
+        },
+        {
+            "filename": "birthday-party-at-home.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/birthday-party-at-home-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                }
+            ],
+            "filesize": 436899,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3JNBVQ3"
+        },
+        {
+            "filename": "fun-birthday-party.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/fun-birthday-party-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                }
+            ],
+            "filesize": 411740,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-637XFKH"
+        },
+        {
+            "filename": "african-birthday-party.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/african-birthday-party-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                }
+            ],
+            "filesize": 368320,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3E784GT"
+        },
+        {
+            "filename": "party-e1614944980388.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/party-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                }
+            ],
+            "filesize": 172312,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6NUFUJX"
+        },
+        {
+            "filename": "dinner-party-e1614944356956.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/dinner-party-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                }
+            ],
+            "filesize": 268571,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZRUUT3U"
+        },
+        {
+            "filename": "party-food-e1614945024851.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/party-food-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                }
+            ],
+            "filesize": 155008,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PDLE56Y"
+        },
+        {
+            "filename": "2-e1614944422655.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/2-800x1940.png",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/memoir-v1-single-post.json",
+                    "name": "Memoir V1 - Single Post"
+                }
+            ],
+            "filesize": 274992,
+            "dimensions": [
+                346,
+                840
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/watercolor-leaves-laurel-and-wreath-clip-art-R2MNUT"
+        },
+        {
+            "filename": "12-e1614944475744.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/12-800x933.png",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/memoir-v1-archive.json",
+                    "name": "Memoir V1 - Archive"
+                },
+                {
+                    "source": "templates\/memoir-v1-single-post.json",
+                    "name": "Memoir V1 - Single Post"
+                }
+            ],
+            "filesize": 245488,
+            "dimensions": [
+                617,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/watercolor-leaves-laurel-and-wreath-clip-art-R2MNUT"
+        },
+        {
+            "filename": "wedding-couple-1-e1614932100416.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-couple-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                }
+            ],
+            "filesize": 51941,
+            "dimensions": [
+                595,
+                595
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WY5TFN9"
+        },
+        {
+            "filename": "groom-in-a-park-e1614918438876.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/groom-in-a-park-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 49290,
+            "dimensions": [
+                610,
+                610
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YSXRKG3"
+        },
+        {
+            "filename": "wedding-food.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-food-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 325578,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-R4KV5EU"
+        },
+        {
+            "filename": "logo-2-1.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/logo-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1811,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2079,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4-1.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/logo-4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2193,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5-1.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/logo-5-1.png",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2300,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11-1.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/logo-11-1.png",
+            "templates": [
+                {
+                    "source": "templates\/wedding-organizer.json",
+                    "name": "Wedding Organizer"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1900,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "41-01-e1614944506493.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/41-01-800x196.png",
+            "templates": [
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/journal.json",
+                    "name": "Journal"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/rsvp.json",
+                    "name": "RSVP"
+                }
+            ],
+            "filesize": 161130,
+            "dimensions": [
+                1080,
+                264
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/watercolor-leaves-laurel-and-wreath-clip-art-R2MNUT"
+        },
+        {
+            "filename": "Memphis_2.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/Memphis_2.png",
+            "templates": [
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 2197,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "white-marble-natural-texture-background.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/white-marble-natural-texture-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/rsvp.json",
+                    "name": "RSVP"
+                }
+            ],
+            "filesize": 66539,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-62H95PS"
+        },
+        {
+            "filename": "elegant-bride-e1614918383779.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/elegant-bride-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 63464,
+            "dimensions": [
+                755,
+                755
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LQW4YJE"
+        },
+        {
+            "filename": "wedding-couple-e1614925372297.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-couple-e1614925372297-800x1078.jpg",
+            "templates": [
+                {
+                    "source": "templates\/wedding-invitation-home.json",
+                    "name": "Wedding Invitation Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 156264,
+            "dimensions": [
+                850,
+                1145
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5Y2K3PR"
+        },
+        {
+            "filename": "floral-pattern-e1614945195965.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/floral-pattern-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/journal.json",
+                    "name": "Journal"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/rsvp.json",
+                    "name": "RSVP"
+                }
+            ],
+            "filesize": 147083,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GFJVQJY"
+        },
+        {
+            "filename": "couple-cooking-hobby-lifestyle-concept-e1614945168432.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/couple-cooking-hobby-lifestyle-concept-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 149656,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHL9SBD"
+        },
+        {
+            "filename": "couple-cooking-hobby-lifestyle-concept-2-e1614945142799.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/couple-cooking-hobby-lifestyle-concept-2-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 133602,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5UTVGW"
+        },
+        {
+            "filename": "beach-wedding-ceremony-e1614945117446.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/beach-wedding-ceremony-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 139246,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-K49BET8"
+        },
+        {
+            "filename": "bride-in-white-dress-is-holding-wedding-bouquet.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/bride-in-white-dress-is-holding-wedding-bouquet-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 282795,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-7VUL2JP"
+        },
+        {
+            "filename": "close-up-photo-of-beautiful-table-setting-and-bouquet-in-center-at-wedding-hall.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/close-up-photo-of-beautiful-table-setting-and-bouquet-in-center-at-wedding-hall-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 262452,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2SDKC78"
+        },
+        {
+            "filename": "mason-jar-candle-hanging-on-tree-for-wedding-decor.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2020\/12\/mason-jar-candle-hanging-on-tree-for-wedding-decor-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 392459,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PATZJWF"
+        },
+        {
+            "filename": "details-of-the-wedding-day-e1614945054106.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/details-of-the-wedding-day-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 259023,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GT66TBQ"
+        },
+        {
+            "filename": "wedding.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 261104,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DUCZYN8"
+        },
+        {
+            "filename": "wedding-1.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-1-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 314474,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ERMLH96"
+        },
+        {
+            "filename": "wedding-engagement-time.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-engagement-time-800x531.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 265197,
+            "dimensions": [
+                2000,
+                1328
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RGRP96Y"
+        },
+        {
+            "filename": "wedding-couple-at-destination-wedding-ceremony-e1614945085420.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/wedding-couple-at-destination-wedding-ceremony-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 124716,
+            "dimensions": [
+                720,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S4C8LB7"
+        },
+        {
+            "filename": "couple-in-love-drinking-coffee-in-coffee-shop-e1614944910371.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2020\/12\/couple-in-love-drinking-coffee-in-coffee-shop-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/memoir-v1-single-post.json",
+                    "name": "Memoir V1 - Single Post"
+                }
+            ],
+            "filesize": 42869,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRB5NED"
+        },
+        {
+            "filename": "autumn-pattern-of-leaves-and-cotton-flowers.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/autumn-pattern-of-leaves-and-cotton-flowers-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/memoir-v1-footer.json",
+                    "name": "Memoir V1 - Footer"
+                }
+            ],
+            "filesize": 374052,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GY6V5SK"
+        },
+        {
+            "filename": "Logo-Memoir.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/memoir\/wp-content\/uploads\/sites\/5\/2021\/03\/Logo-Memoir.png",
+            "templates": [
+                {
+                    "source": "templates\/memoir-v1-footer.json",
+                    "name": "Memoir V1 - Footer"
+                },
+                {
+                    "source": "templates\/memoir-v1-header.json",
+                    "name": "Memoir V1 - Header"
+                }
+            ],
+            "filesize": 11929,
+            "dimensions": [
+                316,
+                140
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
